@@ -105,6 +105,12 @@ h1 {
   margin: 20px auto;
   padding: 20px;
 }
+.meal-page p{
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  justify-content: center;
+}
 
 /* Meal Cards */
 .meal-card {
